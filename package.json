@@ -75,6 +75,7 @@
   ],
   "dependencies": {
     "@babel/parser": "^7.12.3",
+    "@embroider/macros": "^0.40.0",
     "@glimmer/component": "^1.0.2",
     "@glimmer/syntax": "^0.62.3",
     "@glimmer/tracking": "^1.0.2",
